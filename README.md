@@ -1,6 +1,6 @@
 # HCFN (Pytorch Implementation)
 
-![](https://github.com/wangyins/HCFN/blob/main/.gif)
+![](https://github.com/wangyins/HCFN/blob/main/sample_videos/outputs/case1.gif)
 
 This is an offical implementation for [HCFN: A Hierarchical Color Fusion Network for Exemplar-based Video Colorization].
 ## Table of Contents
