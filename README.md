@@ -1,4 +1,7 @@
-# HCFN
+# HCFN (Pytorch Implementation)
+
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
+
 This is an offical implementation for [HCFN: A Hierarchical Color Fusion Network for Exemplar-based Video Colorization], and the current code works well with PyTorch 1.5.1.
 ## Table of Contents
 
