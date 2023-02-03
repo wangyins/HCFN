@@ -18,7 +18,7 @@ This is an offical implementation for [HCFN: A Hierarchical Color Fusion Network
 ## Getting Started
 
 ### Installation
-- Clone this repository and install virtual environment:
+- Clone this repository and install virtual environment.
 ```bash
 git clone https://github.com/wangyins/HCFN
 cd HCFN
