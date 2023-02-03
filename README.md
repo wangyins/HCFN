@@ -3,6 +3,7 @@
 EvalSet-1            |  EvalSet-2
 :-------------------------:|:-------------------------:
 ![](https://github.com/wangyins/HCFN/blob/main/sample_videos/outputs/case1.gif)  |  ![](https://github.com/wangyins/HCFN/blob/main/sample_videos/outputs/case2.gif)
+![](https://github.com/wangyins/HCFN/blob/main/sample_videos/outputs/case1.gif)  |  ![](https://github.com/wangyins/HCFN/blob/main/sample_videos/outputs/case2.gif)
 
 This is an offical implementation for [HCFN: A Hierarchical Color Fusion Network for Exemplar-based Video Colorization].
 ## Table of Contents
