@@ -1,4 +1,7 @@
 # HCFN
+grayscale videos | colorful videos
+:-: | :-:
+<video src='video1.mp4' width=180/> | <video src='video2.mp4' width=180/>
 This is an offical implementation for [HCFN: A Hierarchical Color Fusion Network for Exemplar-based Video Colorization], and the current code works well with PyTorch 1.5.1.
 ## Table of Contents
 
