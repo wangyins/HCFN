@@ -2,7 +2,7 @@
 
 ![](https://github.com/wangyins/HCFN/blob/main/.gif)
 
-This is an offical implementation for [HCFN: A Hierarchical Color Fusion Network for Exemplar-based Video Colorization], and the current code works well with PyTorch 1.5.1.
+This is an offical implementation for [HCFN: A Hierarchical Color Fusion Network for Exemplar-based Video Colorization].
 ## Table of Contents
 
 - [Prerequisites](#Prerequisites)
@@ -13,6 +13,7 @@ This is an offical implementation for [HCFN: A Hierarchical Color Fusion Network
 - Ubuntu 16.04
 - Python 3.6.10
 - CPU or NVIDIA GPU + CUDA 10.2 CuDNN
+- PyTorch 1.5.1
 
 ## Getting Started
 
