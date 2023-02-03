@@ -34,6 +34,10 @@ unzip checkpoints.zip
 ```bash
 sh test.sh
 ```
+### Training
+```bash
+sh train.sh
+```
 ## Citation
 If you use this code for your research, please cite our paper.
 ```
