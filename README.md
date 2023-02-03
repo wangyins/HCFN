@@ -20,7 +20,7 @@ git clone https://github.com/wangyins/HCFN
 cd HCFN
 conda env create -f environment.yaml
 ```
-- Download model weights from <a href="https://drive.google.com/file/d/1r2SY8j8lzuN7vyzYjlehSy-Tsw05RKdl/view?usp=sharing">[Google Drive]</a> to get "checkpoints.zip"
+- Download model weights from <a href="https://drive.google.com/file/d/1r2SY8j8lzuN7vyzYjlehSy-Tsw05RKdl/view?usp=sharing">this link</a> to get "checkpoints.zip"
 ```bash
 mkdir -p checkpoints/imagenet/
 cd checkpoints/imagenet/
