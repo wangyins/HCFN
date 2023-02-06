@@ -41,13 +41,3 @@ sh test.sh
 ```bash
 sh train.sh
 ```
-## Citation
-If you use this code for your research, please cite our paper.
-```
-@inproceedings{yin_2023,
-  title={HCFN: A Hierarchical Color Fusion Network for Exemplar-based Video Colorization},
-  author={Yin, Wang and Lu, Peng and Peng, XuJun and Zhao, ZhaoRan and Yu, JinBei},
-  booktitle={},
-  year={2023}
-}
-```
