@@ -10,7 +10,6 @@ This is an offical implementation for [HCFN: A Hierarchical Color Fusion Network
 
 - [Prerequisites](#Prerequisites)
 - [Getting Started](#Getting-Started)
-- [Citation](#Citation)
 
 ## Prerequisites
 - Ubuntu 16.04
