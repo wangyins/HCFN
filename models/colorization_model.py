@@ -22,9 +22,6 @@ class ColorizationModel(MainModel):
 
         Returns:
             the modified parser.
-
-        By default, we use 'colorization' dataset for this model.
-        See the original pix2pix paper (https://arxiv.org/pdf/1611.07004.pdf) and colorization results (Figure 9 in the paper)
         """
         MainModel.modify_commandline_options(parser, is_train)
         parser.set_defaults(dataset_mode='colorization')
