@@ -16,7 +16,6 @@ This is an offical implementation for "HCFN: A Hierarchical Color Fusion Network
 - Python 3.6.10
 - CPU or NVIDIA GPU + CUDA 10.2 CuDNN
 - PyTorch 1.5.1
-- a
 
 ## Getting Started
 
